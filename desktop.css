@@ -1,0 +1,43 @@
+figure{
+    height: 35rem;
+    padding-bottom: 4px;
+}
+.click {
+    width: 70%;
+    font-size: 4.5rem;
+}
+
+.click:hover{
+    background-color: aqua;
+    box-shadow: 3px 3px 20px #03e9f4,
+    3px 2px 20px #03e9f4;
+}
+
+
+p{
+    font-size: 3rem;
+}
+
+.result{
+    font-size: 4rem;
+}
+
+.title{
+    font-size: 3rem;
+}
+
+.ppt:hover{
+    border: 0.3rem rgb(255, 0, 200) solid;
+    background-color: aqua;
+    box-shadow: 3px 3px 20px #03e9f4,
+    3px 2px 20px #03e9f4;
+}
+
+.ppt img{
+    width: 20rem;
+    }
+
+.ppt img:hover {
+    width: 25rem;
+    height: 9rem;
+}
